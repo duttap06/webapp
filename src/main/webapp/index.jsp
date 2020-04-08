@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>TWC OpenShift PoC</title>
 
 
     <!-- Custom styles for this template -->
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; TWC</p>
     </footer>
 </div> <!-- /container -->
 
